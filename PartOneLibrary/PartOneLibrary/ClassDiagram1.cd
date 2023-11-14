@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PartOneLibrary.Information">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIgAAAAAwAAAAAAAAAAACAQAAABAAQAAQAQgIAAMAg=</HashCode>
+      <FileName>Information.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PartOneLibrary.Module">
+    <Position X="5.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAEAAAgAAQAIAAEEAAAABAAAIAEAAA=</HashCode>
+      <FileName>Module.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PartOneLibrary.ModuleHours">
+    <Position X="9.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAQAAAAAAAAABAAAAAQCAAAA=</HashCode>
+      <FileName>ModuleHours.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PartOneLibrary.Semester">
+    <Position X="11.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAE=</HashCode>
+      <FileName>Semester.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,9 @@
+C:\Users\Thabang\Downloads\School\2nd year\PROG2\PartOneLibrary\PartOneLibrary\bin\Debug\netcoreapp3.1\PartOneLibrary.deps.json
+C:\Users\Thabang\Downloads\School\2nd year\PROG2\PartOneLibrary\PartOneLibrary\bin\Debug\netcoreapp3.1\PartOneLibrary.dll
+C:\Users\Thabang\Downloads\School\2nd year\PROG2\PartOneLibrary\PartOneLibrary\bin\Debug\netcoreapp3.1\PartOneLibrary.pdb
+C:\Users\Thabang\Downloads\School\2nd year\PROG2\PartOneLibrary\PartOneLibrary\obj\Debug\netcoreapp3.1\PartOneLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thabang\Downloads\School\2nd year\PROG2\PartOneLibrary\PartOneLibrary\obj\Debug\netcoreapp3.1\PartOneLibrary.AssemblyInfoInputs.cache
+C:\Users\Thabang\Downloads\School\2nd year\PROG2\PartOneLibrary\PartOneLibrary\obj\Debug\netcoreapp3.1\PartOneLibrary.AssemblyInfo.cs
+C:\Users\Thabang\Downloads\School\2nd year\PROG2\PartOneLibrary\PartOneLibrary\obj\Debug\netcoreapp3.1\PartOneLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Thabang\Downloads\School\2nd year\PROG2\PartOneLibrary\PartOneLibrary\obj\Debug\netcoreapp3.1\PartOneLibrary.dll
+C:\Users\Thabang\Downloads\School\2nd year\PROG2\PartOneLibrary\PartOneLibrary\obj\Debug\netcoreapp3.1\PartOneLibrary.pdb

@@ -1,0 +1,31 @@
+﻿@*
+*@
+@{
+    ViewData["Title"] = "Log Hours Page";
+    Layout = "StudyLayout";
+}
+
+
+<div class="container mt-5">
+    <div class="row justify-content-center align-items-center">
+        <div class="col-sm-12 col-md-12 col-lg-4">
+            <h1 class=" mb-3">Log Study Hours </h1>
+            <p> Enter the hours spent working &#xA;on a specific module on a&#xA;certain day:</p>
+            <div class="form-group mt-2">
+                <label for="inputModuleClassHours">Number of hours</label>
+                <input type="text" class="form-control" id="inputHours" placeholder="0">
+            </div>
+            <div class="form-group mt-2">
+                <label for="inputModuleName">Module Name</label>
+                <input type="text" class="form-control" id="inputModName" placeholder="Module Name">
+            </div>
+            <div class="form-group mt-2">
+                <label for="inputModuleClassHours"> Date</label>
+                <input type="text" class="form-control" id="inputDate" placeholder="dd/mm/yy">
+            </div>
+            <div class="mb-3">
+                <button type="submit" class="btn btn-primary">SUBMIT</button>
+            </div>
+        </div>
+    </div>
+</div>

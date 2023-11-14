@@ -1,0 +1,35 @@
+﻿@*
+*@
+@{
+    ViewData["Title"] = "SignUp Page";
+    Layout = "UserLayout";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center align-items-center">
+        <div class="col-sm-12 col-md-12 col-lg-4">
+            <h1 class=" mb-3"> SIGN UP</h1>
+
+            <form method="post">
+                <div class="text-danger">
+                </div>
+                <div class="mb-3">
+                    <label class="form-label"> User ID</label>
+                    <input type="text" class="form-control" value="@ViewData["UserID"]" readonly />
+                </div>
+                <div class="mb-3">
+                    <label class="form-label">User Name</label>
+                    <input type="text" class="form-control" id="Username" placeholder="Username" />
+                </div>
+                <div class="mb-3">
+                    <label class="form-label">Password </label>
+                    <input type="text" class="form-control" id="password" placeholder="Password" />
+                </div>
+                <div class="mb-3">
+                    <p><a class="btn btn-primary" href="https://localhost:44389/Login">SIGN UP </a></p>
+                    
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

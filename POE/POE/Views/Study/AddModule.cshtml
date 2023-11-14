@@ -1,0 +1,42 @@
+﻿@*
+*@
+@{
+    ViewData["Title"] = "Add Module Page";
+    Layout = "StudyLayout";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center align-items-center">
+        <div class="col-sm-12 col-md-12 col-lg-4">
+            <h1 class=" mb-3"> ADD NEW MODULE</h1>
+           
+            <div class="form-group">
+                <label for="exampleFormControlSelect1">Module Code</label>
+                @Html.DropDownList("Modules", new SelectList(ViewBag.data), "Module Code:")
+                <div class="form-group mt-2">
+                    <label for="inputModuleName">Module Name</label>
+                    <input type="text" class="form-control" id="inputModuleName" placeholder="Module Name">
+                </div>
+                <div class="form-group mt-2">
+                    <label for="inputModuleCredits">Module Credits</label>
+                    <input type="text" class="form-control" id="inputModuleCredits" placeholder="0">
+                </div>
+                <div class="form-group mt-2">
+                    <label for="inputModuleClassHours">Module Class Hours</label>
+                    <input type="text" class="form-control" id="inputModuleClassHours" placeholder="0">
+                </div>
+                <div class="form-group mt-2">
+                    <label for="inputModuleClassHours">Number of semester weeks</label>
+                    <input type="text" class="form-control" id="inputSemesterWeeks" placeholder="0">
+                </div>
+                <div class="form-group mt-2">
+                    <label for="inputModuleClassHours">Semester Start Date</label>
+                    <input type="text" class="form-control" id="inputSemesterStartDate" placeholder="dd/mm/yy">
+                </div>
+                <div class="mb-3">
+                    <button type="submit" class="btn btn-primary">ADD MODULE</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
